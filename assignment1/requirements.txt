@@ -1,2 +1,4 @@
 open3d==0.18.0
 numpy==1.26.1
+transformers==4.31.0
+huggingface-hub==0.19.4
